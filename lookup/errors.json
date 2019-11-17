@@ -1,0 +1,74 @@
+[
+    {
+        "text": "yeah a cheap restaurant serving international food",
+        "intent": "affirm",
+        "intent_prediction": {
+            "name": "inform",
+            "confidence": 0.46394239283561894
+        }
+    },
+    {
+        "text": "correct",
+        "intent": "affirm",
+        "intent_prediction": {
+            "name": "inform",
+            "confidence": 0.4762181918154392
+        }
+    },
+    {
+        "text": "yes in the moderately priced",
+        "intent": "affirm",
+        "intent_prediction": {
+            "name": "inform",
+            "confidence": 0.4688197958824004
+        }
+    },
+    {
+        "text": "thats correct gastropub food",
+        "intent": "affirm",
+        "intent_prediction": {
+            "name": "inform",
+            "confidence": 0.46586569259367033
+        }
+    },
+    {
+        "text": "uh yes im looking for a cheap restaurant that serves medetanian food",
+        "intent": "affirm",
+        "intent_prediction": {
+            "name": "inform",
+            "confidence": 0.4620498927117431
+        }
+    },
+    {
+        "text": "yes i am in the east part of town right now and i am looking for any place that serves indonesian food",
+        "intent": "affirm",
+        "intent_prediction": {
+            "name": "inform",
+            "confidence": 0.4601616010092936
+        }
+    },
+    {
+        "text": "yes and i dont care about the price range",
+        "intent": "affirm",
+        "intent_prediction": {
+            "name": "inform",
+            "confidence": 0.4547103876846342
+        }
+    },
+    {
+        "text": "uh yeah im looking for a restaurant in the south part of town and that serves kosher food",
+        "intent": "affirm",
+        "intent_prediction": {
+            "name": "inform",
+            "confidence": 0.463534616220585
+        }
+    },
+    {
+        "text": "i love that",
+        "intent": "affirm",
+        "intent_prediction": {
+            "name": "inform",
+            "confidence": 0.44593228433604754
+        }
+    }
+]
