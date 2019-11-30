@@ -11,6 +11,15 @@
 - jira
 - CR
 
+## intent:thanks
+- thats what I was looking for
+- thanks
+- many many thanks
+- thankyou
+- good job
+- well done
+- great
+
 ## intent:deny
 - no this is not the incident i am looking for 
 - no thats not correct
@@ -46,9 +55,12 @@
 - what is the status of this [incident](status)
 - what is the status of this [jira](status)
 - what is the status of this [change_request](status)
+- create an incident for me
+- create a jira 
+- create CR
 
 
-## intent:thankyou
+## intent:goodbye
 - um thank you good bye
 - okay cool uh good bye thank you
 - okay thank you good bye
@@ -97,8 +109,9 @@
 - cr is closed 
 - cr is implemented 
 
-##intent:create
-- creating a jira for you
-- creating a CR for you
-- creating a incident for you
-s
+##intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
